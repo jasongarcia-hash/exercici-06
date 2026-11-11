@@ -21,3 +21,6 @@ h1 {
 
 
 /* ===== ADVANCED ===== */
+.item-4 {
+  align-self: end;
+}
